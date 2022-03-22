@@ -1,4 +1,4 @@
 /* /index.html
-/*  /index 301
+/* /index 301
 /index /index.html 200
-/*.html   /:splat   301!
+/*.html /:splat 301!
