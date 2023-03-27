@@ -1,2 +1,2 @@
-# blockpage to bearhero.vercel.app
-# blockpage to https://bearhero.ga/
+# blockpage to https://bearhero.vercel.app
+# blockpage to https://bearhero.netlify.app/
